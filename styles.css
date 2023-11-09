@@ -157,15 +157,21 @@ body {
 }
 
 .contact-map img {
-    width: 80%;
-    transform: translate(10%,20%)
+    width: 95%;
+    margin-top: 23px;
 }
-
 
 .contact-details h2 {
     font-weight: 400;
     letter-spacing: 0.05em;
     padding-bottom: 10px;
+}
+
+.contact-details p {
+    font-size: 14px;
+    line-height: 5px;
+    padding-top: 0px;
+    margin-top: 0px;
 }
 
 footer {
