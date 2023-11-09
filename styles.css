@@ -82,7 +82,7 @@ body {
 
 .banner-footer {
     position: absolute;
-    top: 75%;
+    top: 85%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-weight: 100;
@@ -161,9 +161,6 @@ body {
     transform: translate(10%,20%)
 }
 
-.contact-details {
-    line-height: 5px;
-}
 
 .contact-details h2 {
     font-weight: 400;
