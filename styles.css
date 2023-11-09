@@ -71,7 +71,7 @@ body {
 
 .banner-header {
     position: absolute;
-    top: 35%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-weight: 400;
@@ -82,7 +82,7 @@ body {
 
 .banner-footer {
     position: absolute;
-    top: 85%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-weight: 100;
