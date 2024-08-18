@@ -2,6 +2,8 @@
 
 html, body, html * {
     font-family: 'Roboto', sans-serif;
+    max-width: 600px;
+    margin: auto;
 }
 
 a {
@@ -62,7 +64,6 @@ body {
     filter: blur(10px);
     width: 100%;
 }
-
 
 .banner-icon {
     position: absolute;
@@ -131,6 +132,7 @@ body {
 .card p {
     padding: 0 30px 0 30px;
     line-height: 20px;
+    margin-top: 20px;
 }
 
 .card img {
@@ -140,17 +142,19 @@ body {
 }
 
 .about {
-    text-align: center;
     width: 70%;
-    transform: translate(20%, 0%);
+    text-align: justify;
+    margin-top: 20px;
 }
 
 .about h1 {
     font-weight: 400;
     letter-spacing: 0.05em;
+    text-align: center;
 }
 
 .about p {
+    margin-top: 20px;
     line-height: 20px;
 }
 
@@ -175,7 +179,6 @@ body {
     font-size: 14px;
     line-height: 5px;
     padding-top: 0px;
-    margin-top: 0px;
 }
 
 footer {
